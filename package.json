@@ -1,0 +1,23 @@
+{
+  "name": "get-youtube-playlist-id",
+  "description": "Get Youtube playlist ID from Youtube's URL",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Pierre Neter <pierreneter@gmail.com>",
+  "keywords": [
+    "youtube",
+    "playlist",
+    "api",
+    "id"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/pierreneter/get-youtube-playlist-id/issues",
+    "email": "pierreneter@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pierreneter/get-youtube-playlist-id.git"
+  }
+}
